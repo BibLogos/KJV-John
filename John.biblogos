@@ -1,0 +1,6 @@
+name: John
+type: ApiBible
+bible: 06125adad2d5898a-01
+book: JHN
+files:
+    - name: john.ttl
