@@ -1,7 +1,8 @@
 name: John
 
 files:
-    - name: john.ttl
+    - name: John
+      file: john.ttl
       type: ApiBible
       bible: 06125adad2d5898a-01
       book: JHN
