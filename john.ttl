@@ -1,4 +1,4 @@
-PREFIX ASV_JHN: <https://biblogos.info/facts/ASV/JHN/>
+PREFIX ASV_JHN: <https://biblogos.info/BibLogos/KJV-John/>
 PREFIX biblogos: <https://biblogos.info/ttl/ontology#>
 
 ASV_JHN:John
