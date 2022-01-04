@@ -94,4 +94,4 @@ ASV_JHN:JosephSonOfJacob a biblogos:Person;
     biblogos:reference "JHN.4.5.23".
 ASV_JHN:God a biblogos:Person;
     biblogos:name "God";
-    biblogos:reference "JHN.1.1.17", "JHN.1.1.12".
+    biblogos:reference "JHN.1.1.17", "JHN.1.1.12", "JHN.1.2.8".
