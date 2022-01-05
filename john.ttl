@@ -97,7 +97,7 @@ ASV_JHN:God a biblogos:Person;
     biblogos:reference "JHN.1.1.17", "JHN.1.1.12", "JHN.1.2.8", "JHN.1.6.7", "JHN.1.12.17".
 ASV_JHN:Jesus a biblogos:Person;
     biblogos:name "Jesus";
-    biblogos:reference "JHN.1.37.11", "JHN.1.29.6", "JHN.1.42.5", "JHN.2.2.2".
+    biblogos:reference "JHN.1.37.11", "JHN.1.29.6", "JHN.1.42.5", "JHN.2.2.2", "JHN.2.1.17".
 ASV_JHN:JesusTheLambOfGod a biblogos:AlternativeName;
     biblogos:name "the Lamb of God";
     biblogos:reference "JHN.1.36.12:JHN.1.36.15", "JHN.1.29.13:JHN.1.29.16";
