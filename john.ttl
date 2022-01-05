@@ -95,3 +95,10 @@ ASV_JHN:JosephSonOfJacob a biblogos:Person;
 ASV_JHN:God a biblogos:Person;
     biblogos:name "God";
     biblogos:reference "JHN.1.1.17", "JHN.1.1.12", "JHN.1.2.8", "JHN.1.6.7", "JHN.1.12.17".
+ASV_JHN:Jesus a biblogos:Person;
+    biblogos:name "Jesus";
+    biblogos:reference "JHN.1.37.11".
+ASV_JHN:JesusTheLambOfGod a biblogos:AlternativeName;
+    biblogos:name "the Lamb of God";
+    biblogos:reference "JHN.1.36.12:JHN.1.36.15";
+    biblogos:subject ASV_JHN:Jesus.
