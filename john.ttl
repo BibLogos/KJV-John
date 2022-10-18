@@ -114,3 +114,6 @@ ASV_JHN:JesusFather a biblogos:AlternativeName;
     biblogos:name "Father";
     biblogos:reference "JHN.1.18.20";
     biblogos:subject ASV_JHN:Jesus.
+ASV_JHN:ShepardOfTheSheep a biblogos:Parable;
+    biblogos:name "Shepard of the Sheep";
+    biblogos:reference "JHN.10.1.1:JHN.10.5.20".
